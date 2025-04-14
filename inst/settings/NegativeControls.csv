@@ -1,0 +1,97 @@
+targetId,comparatorId,outcomeId,outcomeName,type
+1792362,1792363,378256,Abnormal reflex,outcome
+1792362,1792363,4218106,Alcoholism,outcome
+1792362,1792363,440424,Aphasia,outcome
+1792362,1792363,439237,Assault,outcome
+1792362,1792363,378424,Astigmatism,outcome
+1792362,1792363,261880,Atelectasis,outcome
+1792362,1792363,134118,Atrophic condition of skin,outcome
+1792362,1792363,4224118,Bladder dysfunction,outcome
+1792362,1792363,80509,Bone cyst,outcome
+1792362,1792363,434626,Borderline personality disorder,outcome
+1792362,1792363,438407,Bulimia nervosa,outcome
+1792362,1792363,134765,Cachexia,outcome
+1792362,1792363,4172458,Candidiasis of skin,outcome
+1792362,1792363,436740,Cervical incompetence,outcome
+1792362,1792363,381581,Chalazion,outcome
+1792362,1792363,4307254,Closed fracture,outcome
+1792362,1792363,4047787,Colles' fracture,outcome
+1792362,1792363,198075,Condyloma acuminatum of the anogenital region,outcome
+1792362,1792363,73302,Curvature of spine,outcome
+1792362,1792363,4242416,Cutis laxa,outcome
+1792362,1792363,433163,Deficiency of macronutrients,outcome
+1792362,1792363,4047269,Deformity of foot,outcome
+1792362,1792363,133228,Dental caries,outcome
+1792362,1792363,4095288,Ketoacidotic coma due to diabetes mellitus,outcome
+1792362,1792363,4044391,Neuropathy due to diabetes mellitus,outcome
+1792362,1792363,4147672,Disease due to Papilloma virus,outcome
+1792362,1792363,4140510,Disorder of lymphatic vessel,outcome
+1792362,1792363,433440,Dysthymia,outcome
+1792362,1792363,376132,Ectropion,outcome
+1792362,1792363,440695,Encopresis,outcome
+1792362,1792363,438872,Excessive eating,outcome
+1792362,1792363,443767,Disorder of eye due to diabetes mellitus,outcome
+1792362,1792363,78804,Fibrocystic disease of breast,outcome
+1792362,1792363,4131595,Fracture of radius,outcome
+1792362,1792363,74855,Genital herpes simplex,outcome
+1792362,1792363,441788,Human papilloma virus infection,outcome
+1792362,1792363,76737,Hydrocele,outcome
+1792362,1792363,4029582,Hyperandrogenization syndrome,outcome
+1792362,1792363,195212,Hypercortisolism,outcome
+1792362,1792363,438134,Hypersomnia,outcome
+1792362,1792363,45768449,Hypertensive crisis,outcome
+1792362,1792363,140362,Hypoparathyroidism,outcome
+1792362,1792363,4322737,Infection of tooth,outcome
+1792362,1792363,4207688,Infectious enteritis of intestine,outcome
+1792362,1792363,79072,Inflammatory disorder of breast,outcome
+1792362,1792363,139099,Ingrowing nail,outcome
+1792362,1792363,4288544,Inguinal hernia,outcome
+1792362,1792363,444191,Injury of face,outcome
+1792362,1792363,444130,Injury of foot,outcome
+1792362,1792363,134222,Injury of forearm,outcome
+1792362,1792363,4297984,Local infection of wound,outcome
+1792362,1792363,4018050,Localized infection,outcome
+1792362,1792363,439840,Lymphangitis,outcome
+1792362,1792363,4163232,Mastitis,outcome
+1792362,1792363,440389,Mental retardation,outcome
+1792362,1792363,436100,Narcolepsy,outcome
+1792362,1792363,4262178,Neurogenic dysfunction of the urinary bladder,outcome
+1792362,1792363,193874,Nocturnal enuresis,outcome
+1792362,1792363,4171549,Nodular goiter,outcome
+1792362,1792363,442274,Oligomenorrhea,outcome
+1792362,1792363,4215978,Onychomycosis,outcome
+1792362,1792363,4171915,Orchitis,outcome
+1792362,1792363,380731,Otitis externa,outcome
+1792362,1792363,378160,Otorrhea,outcome
+1792362,1792363,192606,Paraplegia,outcome
+1792362,1792363,253796,Pneumothorax,outcome
+1792362,1792363,195501,Polycystic ovaries,outcome
+1792362,1792363,4164337,Polyp of large intestine,outcome
+1792362,1792363,4153877,Post-traumatic wound infection,outcome
+1792362,1792363,434319,Premature ejaculation,outcome
+1792362,1792363,373478,Presbyopia,outcome
+1792362,1792363,199876,Prolapse of female genital organs,outcome
+1792362,1792363,4295888,Prolapse of intestine,outcome
+1792362,1792363,194997,Prostatitis,outcome
+1792362,1792363,4146239,Pruritus of genital organs,outcome
+1792362,1792363,4285569,Pupillary disorder,outcome
+1792362,1792363,81336,Rectal prolapse,outcome
+1792362,1792363,380395,Retinal dystrophy,outcome
+1792362,1792363,141825,Simple goiter,outcome
+1792362,1792363,137054,Skin striae,outcome
+1792362,1792363,434630,Sleep-wake schedule disorder,outcome
+1792362,1792363,4195698,Tenosynovitis,outcome
+1792362,1792363,4339088,Testicular mass,outcome
+1792362,1792363,133141,Tinea pedis,outcome
+1792362,1792363,440814,Torticollis,outcome
+1792362,1792363,435140,Toxic effect of alcohol,outcome
+1792362,1792363,4270490,Tracheitis,outcome
+1792362,1792363,4028970,Tracheobronchitis,outcome
+1792362,1792363,4114197,Tumor of hypothalamus,outcome
+1792362,1792363,193326,Urge incontinence of urine,outcome
+1792362,1792363,4092565,Uterine prolapse,outcome
+1792362,1792363,140641,Verruca vulgaris,outcome
+1792362,1792363,197036,Vesicoureteric reflux,outcome
+1792362,1792363,133551,Vesicular eczema of hands and/or feet,outcome
+1792362,1792363,4223947,"Viral hepatitis, type A",outcome
+1792362,1792363,261326,Viral pneumonia,outcome
