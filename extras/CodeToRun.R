@@ -15,10 +15,10 @@ maxCores <- parallel::detectCores() - 1
 outputFolder <- "C:/Users/paul9/Rprojects/GDE2025result"
 
 # Details for connecting to the server:
-connectionDetails <- DatabaseConnector::createConnectionDetails(dbms = "sql server",
-                                                                user = "paul9567",
-                                                                password = "Euez3yz!@#",
-                                                                server = "10.19.10.241")
+connectionDetails <- DatabaseConnector::createConnectionDetails(dbms = "",
+                                                                user = "",
+                                                                password = "",
+                                                                server = "")
 conn <- connect(connectionDetails)
 
 # The name of the database schema where the CDM data can be found:
